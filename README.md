@@ -1,10 +1,10 @@
 # Test Project Mocha/Chai
 
-First steps to learn Mocha and Chai frameworks
+First steps to learn Mocha and Chai frameworks.
 
 ## Description
 
-The purpose of this project is to learn hoe Mocha/Chai frameworks works
+The purpose of this project is to learn how Mocha/Chai frameworks work.
 
 ##Setup
 
@@ -20,6 +20,6 @@ if you don't have NPm install it from
 3. Install Chai
 `pm install chai`
 
-##Rum Test 
-to run test you need type in terminal 
+##Run Test 
+To run test you need type in terminal 
 `npm test`
