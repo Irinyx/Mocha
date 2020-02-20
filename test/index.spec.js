@@ -8,18 +8,18 @@ describe('function sum', () => {
 
     it('should func sum equals 6', () => {
         assert.equal(sum(2, 4), 6);
-        expect(sum(2,4)).equal(6);
+        expect(sum(2, 4)).equal(6);
     });
 
     it('should func sum not equals 0', () => {
         assert.notEqual(sum(2, 4), 0);
-        expect(sum(2,4)).equal(0);
+        expect(sum(2, 4)).equal(0);
 
     });
 
     it('should func sum equals 55', () => {
         assert.equal(sum(5, '5'), '55');
-        expect(sum(5,'5')).equal('55');
+        expect(sum(5, '5')).equal('55');
     });
 
     it('should func sum equals s5', () => {
@@ -35,11 +35,11 @@ describe('function sum', () => {
 describe('function mult', () => {
 
     it('should func mult a equals 8', () => {
-        expect(mult(2,4).equal(8));
+        expect(mult(2, 4).equal(8));
     });
 
     it('should func mult not equals 0', () => {
-        expect(mult(2,4).not.equal(0));
+        expect(mult(2, 4).not.equal(0));
     });
 
 });
@@ -170,6 +170,9 @@ describe('function typeOfVariable', () => {
     it('should return string if type is string', () => {
         expect(typeOfVariable('[].join()')).equal('string');
     });
+
+
+    test;
 
 })
 
