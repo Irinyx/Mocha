@@ -171,11 +171,6 @@ describe('function typeOfVariable', () => {
         expect(typeOfVariable('[].join()')).equal('string');
     });
 
-
-    test;
-    one more;
-
-
 })
 
 
