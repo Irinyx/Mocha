@@ -173,6 +173,8 @@ describe('function typeOfVariable', () => {
 
 
     test;
+    one more;
+
 
 })
 
